@@ -49,6 +49,15 @@ Collection of Python-based mini applications developed in Jupyter Notebook, focu
 
 ---
 
+### 🤖 Machine Learning — Random Forest & SVM
+Machine Learning project developed as part of the IBM Artificial Intelligence program, applying classification models such as Random Forest and Support Vector Machines (SVM) for predictive analysis and model evaluation using Python and scikit-learn.
+
+🔗 [View Jupyter Notebook](https://github.com/rogerloop/Curso-IBM-AI/blob/main/0-IBM_AI-Final-Project/Proyecto%20final%20Roger%20Defez-RandomForest%20y%20SVM.ipynb)
+
+🔗 [View Project PDF](https://github.com/rogerloop/Curso-IBM-AI/blob/main/0-IBM_AI-Final-Project/Proyecto%20final%20Roger%20Defez-RandomForest%20y%20SVM.pdf)
+
+---
+
 ## About Me
 
 Business-oriented Data Analyst with experience transforming operational and business data into actionable insights. Strong analytical mindset combined with previous experience in management, finance, operations and strategic decision-making.
