@@ -42,17 +42,10 @@ Data modeling project focused on relational database design, SQL schema creation
 
 ---
 
-### 📈 Automation & Reporting Pipeline
-Automated financial and operational reporting using Python scripts, scheduled processes and alert systems.
+### 🐍 Python Applications & Problem Solving
+Collection of Python-based mini applications developed in Jupyter Notebook, focused on solving practical business and data-related problems through automation, logic implementation and analytical thinking.
 
-🔗 View Project
-
----
-
-### 📉 Data Analysis & Visualization Projects
-Collection of exploratory data analysis, statistics and visualization exercises using Python and Power BI.
-
-🔗 View GitHub Profile
+🔗 [View Python Project Notebook](https://github.com/rogerloop/03_Especialitzacio/blob/main/Sprint_9_Python/Sprint_9_Task_S9_01/Task_S9_01.ipynb)
 
 ---
 
