@@ -66,6 +66,6 @@ Business-oriented Data Analyst with experience transforming operational and busi
 
 ## Contact
 
-- LinkedIn: linkedin.com/in/roger-defez
-- GitHub: github.com/rogerloop
+- LinkedIn: [linkedin.com/in/roger-defez](https://www.linkedin.com/in/roger-defez/)
+- GitHub: [github.com/rogerloop](https://github.com/rogerloop)
 - Email: companera.bastante_7z@icloud.com
