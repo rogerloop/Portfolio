@@ -24,14 +24,14 @@ Data Analyst portfolio showcasing projects focused on Python, SQL, ETL pipelines
 ### 📊 Power BI Marketplace Dashboard
 Interactive Power BI dashboard focused on marketplace analytics and KPI visualization.
 
-🔗 View Project PDF
+🔗 [Power BI Marketplace Dashboard](https://github.com/rogerloop/03_Especialitzacio/blob/main/Sprint_8_Visualtizació_informes_en_PowerBI/Sprint_8_Task_S8_01/8starmarketplace.pdf)
 
 ---
 
 ### ⚙️ ETL Pipeline — Python → MySQL → Power BI
 Design and implementation of an ETL pipeline integrating sales and inventory data into MySQL databases and Power BI dashboards.
 
-🔗 View Repository
+🔗 [View Repository](https://github.com/rogerloop/bonpreu-data-engineer-demo.git)
 
 ---
 
