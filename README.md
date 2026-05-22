@@ -35,6 +35,13 @@ Design and implementation of an ETL pipeline integrating sales and inventory dat
 
 ---
 
+### 🗄️ SQL Data Modeling Project
+Data modeling project focused on relational database design, SQL schema creation, normalization and analytical query optimization for business-oriented data structures.
+
+🔗 [View SQL Data Modeling Project](https://github.com/rogerloop/03_Especialitzacio/blob/main/Sprint_4_Modelat_SQL/Sprint_4_Task_S4_01/Sprint_4_Modelat%20SQL.pdf)
+
+---
+
 ### 📈 Automation & Reporting Pipeline
 Automated financial and operational reporting using Python scripts, scheduled processes and alert systems.
 
@@ -59,4 +66,4 @@ Business-oriented Data Analyst with experience transforming operational and busi
 
 - LinkedIn: linkedin.com/in/roger-defez
 - GitHub: github.com/rogerloop
-- Email: rogerloop@icloud.com
+- Email: companera.bastante_7z@icloud.com
