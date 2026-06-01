@@ -14,6 +14,7 @@ Data Analyst portfolio showcasing projects focused on Python, SQL, ETL pipelines
 - Data Visualization
 - Pandas / NumPy / scikit-learn
 - Git / GitHub
+- AI / Machine Learning
 - Automation & Reporting
 - Business Intelligence
 
