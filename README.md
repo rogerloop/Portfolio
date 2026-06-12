@@ -25,7 +25,7 @@ Data Analyst portfolio showcasing projects focused on Python, SQL, ETL pipelines
 ### 📊 Power BI Marketplace Dashboard
 Interactive Power BI dashboard focused on marketplace analytics and KPI visualization.
 
-🔗 [Power BI Marketplace Dashboard](https://github.com/rogerloop/03_Especialitzacio/blob/main/Sprint_8_Visualtizació_informes_en_PowerBI/Sprint_8_Task_S8_01/8starmarketplace.pdf)
+🔗 [Power BI Marketplace Dashboard](https://github.com/rogerloop/03_Especialitzacio/blob/main/Sprint_8_Visualtizació_informes_en_PowerBI/Sprint_8_Task_S8_01/Starmarketplace%20Analysis.pdf)
 
 ---
 
